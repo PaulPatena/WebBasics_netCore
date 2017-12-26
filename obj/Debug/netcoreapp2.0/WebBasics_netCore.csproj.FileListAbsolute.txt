@@ -1,0 +1,11 @@
+/Users/Paul/GitHub/WebBasics_netCore/bin/Debug/netcoreapp2.0/WebBasics_netCore.deps.json
+/Users/Paul/GitHub/WebBasics_netCore/bin/Debug/netcoreapp2.0/WebBasics_netCore.runtimeconfig.json
+/Users/Paul/GitHub/WebBasics_netCore/bin/Debug/netcoreapp2.0/WebBasics_netCore.runtimeconfig.dev.json
+/Users/Paul/GitHub/WebBasics_netCore/bin/Debug/netcoreapp2.0/WebBasics_netCore.dll
+/Users/Paul/GitHub/WebBasics_netCore/bin/Debug/netcoreapp2.0/WebBasics_netCore.pdb
+/Users/Paul/GitHub/WebBasics_netCore/obj/Debug/netcoreapp2.0/WebBasics_netCore.csprojResolveAssemblyReference.cache
+/Users/Paul/GitHub/WebBasics_netCore/obj/Debug/netcoreapp2.0/WebBasics_netCore.csproj.CoreCompileInputs.cache
+/Users/Paul/GitHub/WebBasics_netCore/obj/Debug/netcoreapp2.0/WebBasics_netCore.AssemblyInfoInputs.cache
+/Users/Paul/GitHub/WebBasics_netCore/obj/Debug/netcoreapp2.0/WebBasics_netCore.AssemblyInfo.cs
+/Users/Paul/GitHub/WebBasics_netCore/obj/Debug/netcoreapp2.0/WebBasics_netCore.dll
+/Users/Paul/GitHub/WebBasics_netCore/obj/Debug/netcoreapp2.0/WebBasics_netCore.pdb

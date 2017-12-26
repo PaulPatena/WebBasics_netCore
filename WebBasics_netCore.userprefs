@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E9647308-3EB6-4D15-B90B-534FE3994EC9}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebBasics__netCore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="47" />
+      <File FileName="wwwroot/index.html" Line="8" Column="37" />
+      <File FileName="Startup.cs" Line="43" Column="77" />
+      <File FileName="wwwroot/secretFolder/index.html" Line="8" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
